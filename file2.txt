@@ -1,4 +1,11 @@
 something
 something more
 something even more
+<<<<<<< HEAD
 Master's work
+=======
+something less
+something BIG
+PRACTICING
+hmm
+>>>>>>> second_branch
